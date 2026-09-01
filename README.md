@@ -150,7 +150,7 @@ APPROVED
 ```
 Each role is responsible for a different stage of the workflow.
 
-This prevents a single user from performing the complete token lifecycle and demonstrates the separation-of-duties principle.
+This prevents a single user from performing the complete token lifecycle and demonstrates the **separation-of-duties** principle.
 
 ## Business-Hour Enforcement
 The environment attribute is used to enforce operating hours.
